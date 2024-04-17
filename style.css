@@ -263,5 +263,24 @@ body{
 .child img{
    height: 100%;
 }
+    .heading{
+    height: 700px;
+    width: 100%;
+    padding: 20px 15px;
+    line-height: 30px;
+    display: ;
+    flex-wrap: wrap;
+}
+.heading-right{
+    width: 100%;
+    height: 25%;
+    font-size: large;
+}
+.heading-left{
+    width: 50%;
+    height: 100%;
+    line-height: 25px;
+    padding-top: 70px;
+}
 }
 
